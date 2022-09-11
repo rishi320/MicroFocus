@@ -1,0 +1,24 @@
+.main-content{
+    padding: 5vh 10vw;
+    position: relative;
+}
+
+.main-heading{
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.body-content{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.back-button{
+    position: absolute;
+    bottom: 0;
+    right: 10vw;
+    font-size: 1.5rem;
+    
+
+}
