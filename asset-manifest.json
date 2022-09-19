@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MicroFocus/static/css/main.14981f02.css",
+    "main.js": "/MicroFocus/static/js/main.7c51d1ad.js",
+    "static/js/787.7a128675.chunk.js": "/MicroFocus/static/js/787.7a128675.chunk.js",
+    "index.html": "/MicroFocus/index.html",
+    "main.14981f02.css.map": "/MicroFocus/static/css/main.14981f02.css.map",
+    "main.7c51d1ad.js.map": "/MicroFocus/static/js/main.7c51d1ad.js.map",
+    "787.7a128675.chunk.js.map": "/MicroFocus/static/js/787.7a128675.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14981f02.css",
+    "static/js/main.7c51d1ad.js"
+  ]
+}
